@@ -1,0 +1,23 @@
+{
+  "name": "expay",
+  "version": "1.0.0",
+  "description": "Exam Payment System",
+  "main": "exPay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeeshat/ExPay.git"
+  },
+  "author": "Tharindu N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadeeshat/ExPay/issues"
+  },
+  "homepage": "https://github.com/nadeeshat/ExPay#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
